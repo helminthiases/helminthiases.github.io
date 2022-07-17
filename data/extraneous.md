@@ -2,17 +2,26 @@
 layout: default
 title: Extraneous Features
 parent: Data
-nav_order: 5
-has_children: false
+nav_order: 3
 custom_css:
 - tooltips
 ---
 
-# The Extra Features
+# Geospatial Features
+{: .no_toc }
 
-Extra features for predictive models.
+<br>
 
-{: .fs-6 .fw-300 }
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+   {:toc}
+
+---
+
+
+## The Extra Features
 
 <br>
 
