@@ -3,6 +3,7 @@ layout: default
 title: Missing Data
 parent: Data
 nav_order: 2
+has_children: true
 custom_js:
 - latex
 ---
