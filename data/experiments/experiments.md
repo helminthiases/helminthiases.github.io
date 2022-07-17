@@ -15,5 +15,6 @@ A brief data sets discussion.
 {: .fs-6 .fw-300 }
 
 <br>
-
-This project depends on the World Health Organization's geohelminths field experiments data.  The data sets ...
+<br>
+<br>
+<br>
