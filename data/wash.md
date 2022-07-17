@@ -22,7 +22,7 @@ custom_css:
 
 <br>
 
-## The Extra Features
+## Water, Sanitation & Hygiene
 
 <br>
 
