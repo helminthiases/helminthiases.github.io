@@ -29,7 +29,7 @@ custom_css:
 <br>
 
 <figure>
-<img src="/assets/images/data.png" style="text-align: center; vertical-align: middle; width: 542px; height: 340px">
+<img src="/assets/images/data.png" style="margin-left: 100px; vertical-align: middle; width: 100%;">
 <figcaption>The data sources, thus far.  ESPEN: Expanded Special Project for Elimination of Tropical 
 Diseases, IHME:  Institute for Health Metrics and Evaluation, WASH: water, sanitation, and hygiene, SEDAC: socioeconomic 
 data & application</figcaption>
