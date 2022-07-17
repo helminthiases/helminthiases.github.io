@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Data Source
+title: Data Sources
 parent: Data
 nav_order: 1
 custom_js:
-- latex
+- latex 
+custom_css:
+- figures
 ---
 
-# The ESPEN STH Infections Data
+# The Data Sources
 {: .no_toc }
 
 <br>
@@ -22,9 +24,16 @@ custom_js:
 
 <br>
 
-## ESPEN
+## Field & Extraneous Data
 
-This project depends on the World Health Organization's geohelminths field experiments data.  The data sets ...
+<br>
+
+<figure>
+<img src="assets/images/data.png" style="text-align: center; vertical-align: middle; width: 542px; height: 340px">
+<figcaption>The data sources, thus far.  ESPEN: Expanded Special Project for Elimination of Tropical 
+Diseases, IHME:  Institute for Health Metrics and Evaluation, WASH: water, sanitation, and hygiene, SEDAC: socioeconomic 
+data & application</figcaption>
+</figure>
 
 <br>
 <br>
