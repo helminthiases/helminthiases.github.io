@@ -3,7 +3,7 @@ layout: default
 title: Missing Data
 parent: Infections Data
 grand_parent: Data
-nav_order: 1
+nav_order: 2
 custom_js:
 - latex
 ---
