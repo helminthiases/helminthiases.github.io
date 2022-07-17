@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Data Source
-parent: Infections Data
-grand_parent: Data
+parent: Data
 nav_order: 1
 custom_js:
 - latex
