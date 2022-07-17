@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Extraneous Features
+title: IHME WASH Years
 parent: Data
 nav_order: 3
 custom_css:
 - tooltips
 ---
 
-# Geospatial Features
+# The Data Years of the IHME WASH Variables
 {: .no_toc }
 
 <br>
@@ -26,17 +26,8 @@ custom_css:
 
 <br>
 
-The
-
-* Biology of geohelminths, i.e., their life cycles, and the suitable environmental conditions per life cycle ...
-
-* Ecology of geohelminths, i.e., their relationships with their physical environment - temperature, rainfall, altitude, 
-  atmospheric humidity, vegetation, soil moisture - ...
-
-* Transmission dynamics, especially the import of WASH (water, sanitation, and hygiene) variable, ...
-
-hint at potential prognostic features.  By virtue of the project's objects, the initial features of interest are **(a)** WASH 
-variables, and **(b)** population density.
+The WASH (water, sanitation, and hygiene) variables estimates by IHME (Institute for Health Metrics) are annual access estimates for 
+the years $2000 \rightarrow 2017$.  Per country, what proportion of *complete observations* were measured during these years?
 
 <br>
 <br>
