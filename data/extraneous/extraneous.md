@@ -14,6 +14,8 @@ Extra features for predictive models.
 
 {: .fs-6 .fw-300 }
 
+<br>
+
 The
 
 * Biology of geohelminths, i.e., their life cycles, and the suitable environmental conditions per life cycle ...
