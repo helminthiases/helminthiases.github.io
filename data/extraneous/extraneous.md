@@ -2,7 +2,7 @@
 layout: default
 title: Extraneous Features
 parent: Data
-nav_order: 2
+nav_order: 5
 has_children: false
 custom_css:
 - tooltips
