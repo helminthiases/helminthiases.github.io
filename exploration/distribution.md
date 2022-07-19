@@ -26,7 +26,11 @@ custom_js:
 
 ## Maps
 
+<br>
+
 Per country, and per year, the maps illustrate examinations coverage vis-\`{a}-vis parasitic infection type.
+
+<br>
 
 <div class='tableauPlaceholder' id='viz1658272807558' style='position: relative'>
 <noscript><a href='#'><img alt='Distributions Board ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Di&#47;Distributions_16582607993460&#47;DistributionsBoard&#47;1_rss.png' style='border: none' /></a></noscript>
