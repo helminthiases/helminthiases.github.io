@@ -3,6 +3,8 @@ layout: default
 title: IHME WASH Years
 parent: Data
 nav_order: 3
+custom_js:
+- latex
 custom_css:
 - tooltips
 ---
