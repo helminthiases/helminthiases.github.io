@@ -2,7 +2,7 @@
 layout: default
 title: Demographic Measures
 parent: Exploratory Analysis
-nav_order: 2
+nav_order: 3
 custom_js:
 - latex
   custom_css:
