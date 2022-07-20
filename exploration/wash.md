@@ -23,7 +23,7 @@ custom_css:
 ---
 
 The graphs herein illustrate the relationships between IHME (Institute for Health Metrics & Evaluation) 
-WASH (water, sanitation, and hygiene) variables estimates and the prevalence of geohelminth disease types. 
+WASH (water, sanitation, and hygiene) variables estimates, and the prevalence of geohelminth disease types. 
 
 <br>
 
