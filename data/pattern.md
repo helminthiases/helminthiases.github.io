@@ -26,6 +26,8 @@ custom_js:
 
 ## Null Regression & Correlation
 
+Reviewing and re-writing.  Update due late 20 July.
+
 <br>
 
 <div class='tableauPlaceholder' id='viz1658092680967' style='position: relative'>
