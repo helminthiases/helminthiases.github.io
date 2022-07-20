@@ -20,7 +20,11 @@ custom_css:
 1. TOC
 {:toc}
 
+<br>
+
 ---
+
+<br>
 
 The graphs herein illustrate the relationships between the elevation estimates, and the prevalence of geohelminth disease types.
 
