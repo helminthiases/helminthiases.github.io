@@ -95,6 +95,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 <br>
+<br>
 
 ## Complete Cases
 
