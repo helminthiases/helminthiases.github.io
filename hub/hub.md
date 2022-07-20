@@ -9,10 +9,10 @@ custom_css:
 - figures
 ---
 
-# STH Project
+# The Soil Transmitted Helminths Project
 {: .fs-9 }
 
-Background Notes
+The repositories of the *Helminthiases* hub
 {: .fs-6 .fw-300 }
 
 <br>
