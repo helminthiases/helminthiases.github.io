@@ -6,7 +6,7 @@ has_children: true
 permalink: /data
 ---
 
-# STH Project
+# The Soil Transmitted Helminths Project
 
 Data Notes
 {: .fs-6 .fw-300 }
