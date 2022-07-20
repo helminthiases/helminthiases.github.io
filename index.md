@@ -11,10 +11,12 @@ custom_css:
 # Introductory Notes
 {: .fs-9 }
 
-Predicting the prevalence of geohelminths infections
+The Soil Transmitted Helminths Project
 {: .fs-6 .fw-300 }
 
-The pages of helminthiases.github.io complement the project's **(a)** code repositories,  and **(b)** its accompanying 
+<br>
+
+These pages complement the project's **(a)** code repositories, and **(b)** its accompanying 
 thesis, the latter is in progress.   
 
 <br>
