@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Hub
+title: The Repositories
 nav_order: 2
 description: Outlines the purpose of each hub repository
 has_children: true
@@ -87,3 +87,4 @@ Background Notes
 <br>
 <br>
 <br>
+
