@@ -5,7 +5,7 @@ parent: Exploratory Analysis
 nav_order: 4
 custom_js:
 - latex
-  custom_css:
+custom_css:
 - figures
 ---
 
@@ -18,7 +18,7 @@ custom_js:
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
