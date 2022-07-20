@@ -4,7 +4,7 @@ title: Data Sources
 parent: Data
 nav_order: 1
 custom_js:
-- latex 
+- latex
 custom_css:
 - figures
 ---
