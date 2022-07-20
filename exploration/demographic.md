@@ -20,7 +20,7 @@ custom_css:
 1. TOC
 {:toc}
 
-<br
+<br>
 
 ---
 
