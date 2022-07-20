@@ -22,6 +22,8 @@ custom_css:
 
 ---
 
+<br>
+
 The graphs herein illustrate the relationships between the population density estimates, by the centre for Socioeconomic 
 Data & Applications, and the prevalence of geohelminth disease types.
 
@@ -34,6 +36,7 @@ sewage & water facilities, relative to rural areas.  Why does *hookworm disease*
 the transmission dynamics of *hookworm disease* - infection/re-infection is via infective larvae that residing within 
 unhygienic soil. [Within the manuscript, discuss Brooker 2006, Montresor 2011, amongst others.]
 
+<br>
 
 <div class='tableauPlaceholder' id='viz1658310469139' style='position: relative'>
 <noscript><a href='#'><img alt='Board ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PopulationDensity_16581710294170&#47;Board&#47;1_rss.png' style='border: none' /></a></noscript>
