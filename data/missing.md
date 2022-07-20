@@ -25,6 +25,10 @@ custom_js:
 
 ## Missing Spatiotemporal Data
 
+Each point of the graph below represents a country.  For modelling purposes, the countries of interest are 
+those wherein (a) the sample size is appropriate for the acceptable maximum prediction error, and (b) there is no missing 
+data, or missing data points are *missing completely at random*.
+
 <br>
 
 <div class='tableauPlaceholder' id='viz1658075472872' style='position: relative'>
@@ -55,8 +59,12 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 <br>
+<br>
 
 ## Missing Infections Measurements
+
+Again, each point represents a country.  Initially, the preferred countries - starting from bottom right - are Nigeria, Togo, 
+Liberia, and the Democratic Republic of Congo.  However, missing data pattern analysis may change the preference list.
 
 <br>
 
@@ -89,6 +97,9 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 <br>
 
 ## Complete Cases
+
+Per country, and per geohelminth infection type, what proportion of observations have a year, co&ouml;dinates, and 
+prevalence value? 
 
 <br>
 
