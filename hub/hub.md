@@ -68,6 +68,11 @@ Background Notes
   </tr>
 
   <tr>
+    <td><a href="https://github.com/helminthiases/helminthiases.github.io" target="\_blank">helminthiases.github.io</a></td>
+    <td>Hosts the code, and graphs, of these GitHub pages</td>
+  </tr>
+
+  <tr>
     <td><a href="https://github.com/helminthiases/manuscript" target="\_blank">manuscript</a></td>
     <td>At present, more or less empty.  It hosts the text of the project's thesis.</td>
   </tr>
