@@ -9,7 +9,7 @@ custom_css:
 - figures
 ---
 
-# STH Project
+# The Soil Transmitted Helminths Project
 {: .fs-9 }
 
 Exploratory Data Analysis Notes
