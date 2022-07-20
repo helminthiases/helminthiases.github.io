@@ -5,7 +5,7 @@ parent: Exploratory Analysis
 nav_order: 3
 custom_js:
 - latex
-  custom_css:
+custom_css:
 - figures
 ---
 
