@@ -37,8 +37,6 @@ Most of the data's variables have missing values.  Prior to deciding how to addr
 missing values patterns [@steyerberg2010]. Rubin [@rubin1976, @steyerberg2010, @little2019] outlines three fundamental missing data 
 mechanisms
 
-<br>
-
 * Missing Completely at Random (MCAR): administrative errors, accident.
 
 * Missing at Random (MAR): there's an association between a variable's missing data and available independent variables / outcomes.
@@ -52,12 +50,8 @@ because the complete case excerpt is akin to a random sample from a complete pop
 data is *missing at random*, then the complete case excerpt is not representative of the underlying population, therefore population 
 inference is not possible via complete case analysis. [@steyerberg2010]
 
-<br>
-
 The null regression investigates whether the missing values of a reference, i.e., independent, variable are 
 predictable.  The hypotheses are
-
-<br>
 
 > $$H_{0}$$: The missing values of a reference/independent variable are not predictable via an outcome variable, or 
 > by other independent variables.
