@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Missing Data Patterns Analysis
-parent: Missing Data
+parent: Missing Field Data
 grand_parent: Data
 nav_order: 1
 custom_js:
