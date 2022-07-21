@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IHME WASH Years
+title: IHME WASH
 parent: Data
 nav_order: 3
 custom_js:
@@ -9,7 +9,7 @@ custom_css:
 - tooltips
 ---
 
-# The Data Years of the IHME WASH Variables
+# IHME WASH Variables & Time
 {: .no_toc }
 
 <br>
