@@ -54,7 +54,10 @@ inference is not possible via complete case analysis. [@steyerberg2010]
 
 <br>
 
-The null regression investigates whether missing values of reference variables, below, are predictable.
+The null regression investigates whether the missing values of a reference, i.e., independent, variable are 
+predictable.  The hypotheses are
+
+<br>
 
 > $$H_{0}$$: The missing values of a reference/independent variable are not predictable via an outcome variable, or 
 > by other independent variables.
@@ -62,19 +65,22 @@ The null regression investigates whether missing values of reference variables, 
 > $$H_{1}$$: It is quite probable that the missing values of a reference/independent variable are predictable via 
 > an outcome variable, or by other independent variables.
 
+<br>
+
 By the generalised linear model set-up
 
 $$h(.) = \beta_{0} + \beta_{1}*(\textit{ascariasis prevalence}) + \beta_{2}*(\textit{trichuriasis prevalence}) + \ldots $$
 
 The null hypothesis should be rejected in favour of $H_{1}$ if the coefficient $\beta_{i}$ of a variable 
-has a $p_{value} < 0.05$.  Such a low $p_{value}$ implies that the missing values **are not** *missing completely at random*.
+has a $p_{value} < 0.05$.&nbsp; &nbsp; Such a low $p_{value}$ implies that the missing values 
+**are not missing completely at random**.
 
 <br>
 
 Within the null regression graphs below a $p_{value}$ is inapplicable, and missing data analysis is 
-unnecessary, **if the reference variable is not missing any values**.  If values are missing, hover 
-over the squares to view the $p_{value}$ <span class="tooltip">w.r.t.<span class="tooltiptext">with respect to</span></span> 
-the coefficient of each variable.
+unnecessary, **if the reference variable is not missing any values**.  If values are missing the square is black, hover 
+over a black square to view the $p_{value}$ <span class="tooltip">w.r.t.<span class="tooltiptext">with respect to</span></span> 
+the coefficient of a variable.
 
 <br>
 
