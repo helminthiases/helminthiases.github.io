@@ -14,8 +14,3 @@ custom_css:
 
 Exploratory Data Analysis Notes
 {: .fs-6 .fw-300 }
-
-<br>
-<br>
-<br>
-<br>
