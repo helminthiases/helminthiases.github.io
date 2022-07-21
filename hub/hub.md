@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Repositories
+title: Content, Repositories
 nav_order: 2
 description: Outlines the purpose of each hub repository
 has_children: true
@@ -82,11 +82,7 @@ The repositories of the *Helminthiases* hub
     <td>This is a special GitHub repository.  It hosts the hub's profile.  Ignore.</td>
   </tr>
 
-
-
 </table>
-
-
 
 <br>
 <br>
