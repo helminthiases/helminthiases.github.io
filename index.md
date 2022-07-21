@@ -16,7 +16,7 @@ The Soil Transmitted Helminths Project
 
 <br>
 
-These pages complement the project's **(a)** code repositories, and **(b)** its accompanying 
+These pages complement the project's **(a)** code repositories, and **(b)** accompanying 
 thesis, the latter is in progress.  Visit [Content, Repositories](/hub) for an outline of the purpose of each repository.
 
 <br>
