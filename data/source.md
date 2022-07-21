@@ -26,10 +26,6 @@ custom_css:
 
 <br>
 
-## Field & Extraneous Data
-
-<br>
-
 <figure>
 <img src="/assets/images/data.png" style="margin-left: 60px; vertical-align: middle; width: 65%">
 <figcaption>The data sources, thus far.  ESPEN: Expanded Special Project for Elimination of Tropical 
