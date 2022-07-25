@@ -17,7 +17,7 @@ The Soil Transmitted Helminths Project
 
 <p style="margin-top: 30px; margin-bottom: 30px">
 These pages complement the project's <b>(a)</b> code repositories, and <b>(b)</b> accompanying 
-thesis, the latter is in progress.  The [Content, Repositories](/hub) page outlines the purpose of each repository.</p>
+thesis, the latter is in progress.  The <a href="/hub">Content, Repositories</a> page outlines the purpose of each repository.</p>
 
 #### **Project Aim**
 <p style="margin-top: 10px; margin-bottom: 30px">
