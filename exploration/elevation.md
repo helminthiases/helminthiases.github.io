@@ -24,8 +24,6 @@ custom_css:
 
 ---
 
-<br>
-
 The graphs herein illustrate the relationships between the elevation estimates, and the prevalence of geohelminth disease types.
 
 ## Elevation
