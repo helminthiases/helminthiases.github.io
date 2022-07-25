@@ -24,8 +24,6 @@ custom_css:
 
 ---
 
-<br>
-
 The graphs herein illustrate the relationships between the population density estimates, by the centre for Socioeconomic 
 Data & Applications, and the prevalence of geohelminth disease types.
 
