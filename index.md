@@ -17,24 +17,22 @@ The Soil Transmitted Helminths Project
 <br>
 
 These pages complement the project's **(a)** code repositories, and **(b)** accompanying 
-thesis, the latter is in progress.  Visit [Content, Repositories](/hub) for an outline of the purpose of each repository.
+thesis, the latter is in progress.  The [Content, Repositories](/hub) page outlines the purpose of each repository.
 
-<br>
 
-### Project Aim
+#### Project Aim
 
-> Understanding the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables,
-> and their effect, or otherwise, on STH prevalence prediction.
+Understanding the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables,
+and their effect, or otherwise, on STH prevalence prediction.
 
-<br>
 
-### Project Objectives
+#### Project Objectives
 
 Hence, the project's objectives are to
 
-> * Understand the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables
->
-> * Determine the extent to which WASH variables aid STH prevalence prediction via geostatistical models.
+* Understand the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables
+
+* Determine the extent to which WASH variables aid STH prevalence prediction via geostatistical models.
 
 <br>
 <br>
