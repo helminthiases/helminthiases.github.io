@@ -27,10 +27,10 @@ custom_css:
 <br>
 
 <figure>
-<img src="/assets/images/data.png" style="margin-left: 50px; vertical-align: middle; width: 95%">
-<figcaption>The data sources.  The acronyms are &rarr; ESPEN: Expanded Special Project for Elimination of Tropical 
-Diseases. IHME: Institute for Health Metrics and Evaluation, WASH: water, sanitation, and hygiene. SEDAC: socioeconomic 
-data & application.  SRTM: Shuttle Radar Topography Mission.</figcaption>
+<img src="/assets/images/data.png" style="margin-left: 50px; vertical-align: middle; width: 100%">
+<figcaption>The data sources.  The acronyms are &rarr; <b>ESPEN</b>: Expanded Special Project for Elimination of Tropical 
+Diseases. <b>IHME</b>: Institute for Health Metrics and Evaluation, <b>WASH</b>: water, sanitation, and hygiene. <b>SEDAC</b>: socioeconomic 
+data & application.  <b>SRTM</b>: Shuttle Radar Topography Mission.</figcaption>
 </figure>
 
 <br>
