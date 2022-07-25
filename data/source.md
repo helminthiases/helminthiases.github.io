@@ -24,8 +24,6 @@ custom_css:
 
 ---
 
-<br>
-
 <figure>
 <img src="/assets/images/data.png" style="margin-left: 40px; vertical-align: middle; height: 100%">
 <figcaption>The data sources.  The acronyms are &rarr; <b>ESPEN</b>: Expanded Special Project for Elimination of Tropical 
