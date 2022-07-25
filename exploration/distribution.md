@@ -24,8 +24,6 @@ custom_css:
 
 ---
 
-<br>
-
 ## Maps
 
 Per country, and per year, the maps illustrate examinations coverage vis-&#224;-vis parasitic infection type.
