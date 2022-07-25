@@ -24,11 +24,7 @@ custom_css:
 
 ---
 
-<br>
-
 ## Water, Sanitation & Hygiene
-
-<br>
 
 The WASH (water, sanitation, and hygiene) variables estimates by IHME (Institute for Health Metrics) are annual access estimates for 
 the years $2000 \rightarrow 2017$.  Per country, what proportion of *complete observations* were measured during these years?
