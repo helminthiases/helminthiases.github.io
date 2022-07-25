@@ -21,9 +21,9 @@ thesis, the latter is in progress.  The [Content, Repositories](/hub) page outli
 
 
 #### Project Aim
-
+<p style="margin-top: 10px">
 Understanding the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables,
-and their effect, or otherwise, on STH prevalence prediction.
+and their effect, or otherwise, on STH prevalence prediction.</p>
 
 
 #### Project Objectives
@@ -31,7 +31,6 @@ and their effect, or otherwise, on STH prevalence prediction.
 Hence, the project's objectives are to
 
 * Understand the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables
-
 * Determine the extent to which WASH variables aid STH prevalence prediction via geostatistical models.
 
 <br>
