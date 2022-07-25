@@ -26,12 +26,7 @@ custom_css:
 
 ---
 
-<br>
-
-
 ## Null Regression & Correlation
-
-<br>
 
 Most of the data's variables have missing values.  Prior to deciding how to address missing values, it is important to understand the 
 missing values patterns [@steyerberg2010]. Rubin [@rubin1976, @steyerberg2010, @little2019] outlines three fundamental missing data 
