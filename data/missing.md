@@ -23,8 +23,6 @@ custom_js:
 
 ---
 
-<br>
-
 ## Missing Spatiotemporal Data
 
 Each point of the graph below represents a country.  For modelling purposes, the countries of interest are 
