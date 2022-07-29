@@ -28,9 +28,11 @@ custom_css:
 
 ## Null Regression & Correlation
 
+<p style="margin-top: 10px; margin-bottom: 5px">
 Most of the data's variables have missing values.  Prior to deciding how to address missing values, it is important to understand the 
 missing values patterns [@steyerberg2010]. Rubin [@rubin1976, @steyerberg2010, @little2019] outlines three fundamental missing data 
 mechanisms
+</p>
 
 * Missing Completely at Random (MCAR): administrative errors, accident.
 
