@@ -54,9 +54,9 @@ predictable.  The hypotheses are
 > $$H_{1}$$: It is quite probable that the missing values of a reference/independent variable are predictable via 
 > an outcome variable, or by other independent variables.
 
-<br>
-
+<p style="margin-top: 20px; margin-bottom: 5px">
 By the generalised linear model set-up
+</p>
 
 $$h(.) = \beta_{0} + \beta_{1}*(\textit{ascariasis prevalence}) + \beta_{2}*(\textit{trichuriasis prevalence}) + \ldots $$
 
