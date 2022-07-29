@@ -28,15 +28,15 @@ custom_css:
 
 ## Null Regression & Correlation
 
-<p style="margin-top: 20px; margin-bottom: 5px">
+<p style="margin-top: 20px; margin-bottom: 10px">
 Most of the data's variables have missing values.  Prior to deciding how to address missing values, it is important to understand the 
 missing values patterns [@steyerberg2010]. Rubin [@rubin1976, @steyerberg2010, @little2019] outlines three fundamental missing data 
 mechanisms
 </p>
 
-* Missing Completely at Random (MCAR): administrative errors, accident.
-* Missing at Random (MAR): there's an association between a variable's missing data and available independent variables / outcomes.
-* Missing Not at Random (MNAR): missing data associated with missing values of the factor/predictor in question or with unobserved predictors.
+> * Missing Completely at Random (MCAR): administrative errors, accident.
+> * Missing at Random (MAR): there's an association between a variable's missing data and available independent variables / outcomes.
+> * Missing Not at Random (MNAR): missing data associated with missing values of the factor/predictor in question or with unobserved predictors.
 
 <p style="margin-top: 20px; margin-bottom: 5px">
 If the missing values of a data set in question are *missing completely at random* then complete case analysis will suffice 
