@@ -28,7 +28,7 @@ custom_css:
 
 ## Null Regression & Correlation
 
-<p style="margin-top: 10px; margin-bottom: 5px">
+<p style="margin-top: 20px; margin-bottom: 5px">
 Most of the data's variables have missing values.  Prior to deciding how to address missing values, it is important to understand the 
 missing values patterns [@steyerberg2010]. Rubin [@rubin1976, @steyerberg2010, @little2019] outlines three fundamental missing data 
 mechanisms
@@ -40,12 +40,12 @@ mechanisms
 
 * Missing Not at Random (MNAR): missing data associated with missing values of the factor/predictor in question or with unobserved predictors.
 
-<br>
-
+<p style="margin-top: 10px; margin-bottom: 5px">
 If the missing values of a data set in question are *missing completely at random* then complete case analysis will suffice 
 because the complete case excerpt is akin to a random sample from a complete population.  If MCAR does not hold, e.g., 
 data is *missing at random*, then the complete case excerpt is not representative of the underlying population, therefore population 
 inference is not possible via complete case analysis. [@steyerberg2010]
+</p>
 
 The null regression investigates whether the missing values of a reference, i.e., independent, variable are 
 predictable.  The hypotheses are
