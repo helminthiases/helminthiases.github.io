@@ -35,12 +35,10 @@ mechanisms
 </p>
 
 * Missing Completely at Random (MCAR): administrative errors, accident.
-
 * Missing at Random (MAR): there's an association between a variable's missing data and available independent variables / outcomes.
-
 * Missing Not at Random (MNAR): missing data associated with missing values of the factor/predictor in question or with unobserved predictors.
 
-<p style="margin-top: 10px; margin-bottom: 5px">
+<p style="margin-top: 20px; margin-bottom: 5px">
 If the missing values of a data set in question are *missing completely at random* then complete case analysis will suffice 
 because the complete case excerpt is akin to a random sample from a complete population.  If MCAR does not hold, e.g., 
 data is *missing at random*, then the complete case excerpt is not representative of the underlying population, therefore population 
