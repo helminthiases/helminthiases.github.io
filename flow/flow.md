@@ -7,7 +7,7 @@ permalink: /flow
 ---
 
 # The Soil Transmitted Helminths Project
-
+{: .no_toc }
 Project Flow
 
 
