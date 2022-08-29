@@ -2,12 +2,13 @@
 layout: default
 title: Project Flow
 nav_order: 3
-has_children: true
+has_children: false
 permalink: /flow
 ---
 
 # Project Flow
-{: .no_toc }
+Notes
+{: .fs-6 .fw-300 }
 
 <br>
 
