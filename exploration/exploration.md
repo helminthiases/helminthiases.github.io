@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exploratory Analysis
-nav_order: 4
+nav_order: 5
 description: Exploratory data analysis notes
 has_children: true
 permalink: /exploration
