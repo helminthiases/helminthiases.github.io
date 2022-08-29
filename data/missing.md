@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Missing Field Data
-parent: Data
+title: Missing Data
+parent: ESPEN Data
 nav_order: 2
-has_children: true
 custom_js:
 - latex
 ---
