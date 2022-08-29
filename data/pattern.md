@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Missing Data Patterns Analysis
-parent: Missing Field Data
-grand_parent: Data
-nav_order: 1
+parent: ESPEN Data
+nav_order: 3
 custom_js:
 - latex 
 custom_css:
