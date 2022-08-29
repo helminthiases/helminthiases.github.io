@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data
+title: ESPEN Data
 nav_order: 4
 has_children: true
 permalink: /data
