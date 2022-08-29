@@ -68,6 +68,16 @@ The repositories of the *Helminthiases* hub
   </tr>
 
   <tr>
+    <td><a href="https://github.com/helminthiases/modelling" target="\_blank">modelling</a></td>
+    <td>
+      <ul>
+        <li>Preliminary generalised linear mixed modelling</li>
+        <li>Binomial geostatistical logistic modelling</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
     <td><a href="https://github.com/helminthiases/helminthiases.github.io" target="\_blank">helminthiases.github.io</a></td>
     <td>Hosts the code, and graphs, of these GitHub pages</td>
   </tr>
