@@ -6,8 +6,12 @@ has_children: false
 permalink: /flow
 ---
 
-# Project Flow
-{: .no_toc }
+# The Soil Transmitted Helminths Project
+
+Project Flow
+{: .fs-6 .fw-300 }
+
+
 
 <br>
 
