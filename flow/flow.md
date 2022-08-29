@@ -11,8 +11,6 @@ permalink: /flow
 Project Flow
 {: .fs-6 .fw-300 }
 
-
-
 <br>
 
 ## Table of contents
