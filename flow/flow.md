@@ -7,16 +7,15 @@ permalink: /flow
 ---
 
 # Project Flow
-Notes
-{: .fs-6 .fw-300 }
+{: .no_toc }
 
 <br>
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
-   {:toc}
+1. TOC 
+{:toc}
 
 <br>
 
