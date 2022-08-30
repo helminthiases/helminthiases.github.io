@@ -25,11 +25,6 @@ The repositories of the *Helminthiases* hub
   </tr>
 
   <tr>
-    <td><a href="https://github.com/helminthiases/scope#the-project-scope-of-the-soil-transmitted-helminths-project" target="\_blank">scope</a></td>
-    <td>The project's scope</td>
-  </tr>
-
-  <tr>
     <td><a href="https://github.com/helminthiases/infections#notes" target="\_blank">infections</a></td>
     <td>Focuses on site level geohelminths examinations data.  It
       <ul>
