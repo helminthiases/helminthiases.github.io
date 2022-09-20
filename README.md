@@ -6,6 +6,8 @@ helminthiases.github.io
 
 ### Notes
 
+These statements/commands are for the steps page
+
 ```shell
 
 # github.com/helminthiases/infections
@@ -28,6 +30,16 @@ python src/main.py
 source(file = 'R/main.R')
 
 ```
+
+<br>
+<br>
+
+### References
+
+* [ESPEN](https://espen.afro.who.int/)
+  * [ESPEN Cartography Database](https://espen.afro.who.int/tools-resources/cartography-database)
+  * [ESPEN API](https://admin.espen.afro.who.int/docs/api)
+  * [ESPEN API Documentation](https://espen.stoplight.io)
 
 <br>
 <br>
