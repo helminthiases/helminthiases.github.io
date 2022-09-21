@@ -26,6 +26,7 @@ or more WaSH (water, sanitation, and hygiene) variables impact prevalence rates.
 more WaSH variables are geohelminths infections prevalence risk factors.  The investigation is via Binomial geostatistical 
 logistic models.
 
+<br>
 
 #### **Project Aim**
 <p style="margin-top: 10px; margin-bottom: 30px">
