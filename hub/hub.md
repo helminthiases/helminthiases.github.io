@@ -79,7 +79,7 @@ The repositories of the *Helminthiases* hub
 
   <tr>
     <td><a href="https://github.com/helminthiases/manuscript" target="\_blank">manuscript</a></td>
-    <td>At present, more or less empty.  It hosts the text of the project's thesis.</td>
+    <td>The project's thesis.</td>
   </tr>
 
   <tr>
