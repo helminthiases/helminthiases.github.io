@@ -17,10 +17,11 @@ The repositories of the *Helminthiases* hub
 
 <br>
 
-This page outlines the function of each of the hub's repositories.  <a href="https://helminthiases.github.io/#project-data">Remember</a>, 
-the project's underlying data is the World Health Organization's <a href="https://espen.afro.who.int/" target="_blank">ESPEN</a> 
-(Expanded Special Project for the Elimination of Neglected Tropical Diseases) <i>geohelminths infections survey experiments</i> 
-<a href="https://admin.espen.afro.who.int/docs/api" target="_blank">data</a>.
+This page outlines the function of each of the hub's repositories.  Remember, the project's underlying data is the World 
+Health Organization's <a href="https://espen.afro.who.int/" target="_blank">ESPEN</a> (Expanded Special Project for the 
+Elimination of Neglected Tropical Diseases) <i>geohelminths infections survey experiments</i> 
+<a href="https://admin.espen.afro.who.int/docs/api" target="_blank">data</a> 
+(ref. <a href="https://helminthiases.github.io">Introductory Notes</a>).
 
 <br>
 
