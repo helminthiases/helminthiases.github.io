@@ -15,6 +15,10 @@ The Soil Transmitted Helminths Project
 {: .fs-6 .fw-300 }
 
 
+- TOC 
+{:toc}
+
+
 Soil transmitted helminths (STH), i.e., geohelminths, are parasitic intestinal worms that cause intestinal nematode 
 infections (INI).  According to the Lancet's 2019 global burden of disease study INI - comprising *ascariasis*, *trichuriasis*, 
 and *hookworm disease* - are the most prevalent of the neglected tropical diseases.  Additionally, INI are the second most 
