@@ -30,7 +30,7 @@ The repositories of the *Helminthiases* hub
       <ul>
       <li>Inspects the delivered ESPEN geohelminths data; JSON objects.</li>
       <li>Structures the data for exploratory analysis & modelling.</li> 
-      <li>Identifies equivalent locations.</li>
+      <li>Identifies equivalent <i>ESPEN geohelminths infections survey experiments</i> site locations.</li>
       </ul>
     </td>
   </tr>
@@ -42,9 +42,9 @@ The repositories of the *Helminthiases* hub
 
   <tr>
     <td><a href="https://github.com/helminthiases/spatial" target="\_blank">spatial</a></td>
-    <td>The focus herein is geographic information processing.  For each site level location of an ESPEN geohelminths data set, the code extracts
+    <td>The focus herein is geographic information processing.  For each site level location of an ESPEN geohelminths infections data set, the code extracts
       <ul>
-      <li>WASH variables estimates</li>
+      <li>WaSH (water, sanitation, and hygiene) variables estimates</li>
       <li>Population density estimates</li>
       <li>Elevation estimates</li>
       </ul>
