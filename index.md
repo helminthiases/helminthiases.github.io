@@ -8,7 +8,6 @@ custom_css:
 - figures
 ---
 
-<br>
 
 # Introductory Notes
 {: .fs-9 }
