@@ -15,6 +15,23 @@ The Soil Transmitted Helminths Project
 {: .fs-6 .fw-300 }
 
 
+Soil transmitted helminths (STH), i.e., geohelminths, are parasitic intestinal worms that cause intestinal nematode 
+infections (INI).  According to the Lancet's 2019 global burden of disease study INI - comprising *ascariasis*, *trichuriasis*, 
+and *hookworm disease* - are the most prevalent of the neglected tropical diseases.  Additionally, INI are the second most 
+burdensome neglected tropical diseases, after dengue.
+
+
+A World Health Organization's hypothesis of geohelminths infections prevalence (ref. Professor Antonio Montresor) is that one 
+or more WaSH (water, sanitation, and hygiene) variables impact prevalence rates.  This project investigates whether one or 
+more WaSH variables are geohelminths infections prevalence risk factors.  The investigation is via Binomial geostatistical 
+logistic models.
+
+
+The project depends on the World Health Organization's <a href="https://espen.afro.who.int/" target="_blank">ESPEN</a> 
+(Expanded Special Project for the Elimination of Neglected Tropical Diseases) <i>geohelminths infections survey 
+experiments</i> <a href="https://admin.espen.afro.who.int/docs/api" target="_blank">data</a>.
+
+
 <p style="margin-top: 30px; margin-bottom: 30px">
 These pages complement the project's <b>(a)</b> code repositories, and <b>(b)</b> its accompanying 
 thesis.  The <a href="/hub">Content, Repositories</a> page outlines the purpose of each repository.</p>
