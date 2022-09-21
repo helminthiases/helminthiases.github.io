@@ -34,7 +34,7 @@ Elimination of Neglected Tropical Diseases) <i>geohelminths infections survey ex
 
   <tr>
     <td><a href="https://github.com/helminthiases/infections#notes" target="\_blank">infections</a></td>
-    <td>Focuses on site level geohelminths examinations data.  It
+    <td>Focuses on site level <i>geohelminths infections survey experiments</i> data.  It
       <ul>
       <li>Inspects the delivered ESPEN geohelminths data; JSON objects.</li>
       <li>Structures the data for exploratory analysis & modelling.</li> 
