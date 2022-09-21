@@ -16,13 +16,16 @@ The Soil Transmitted Helminths Project
 
 
 <p style="margin-top: 30px; margin-bottom: 30px">
-These pages complement the project's <b>(a)</b> code repositories, and <b>(b)</b> accompanying 
+These pages complement the project's <b>(a)</b> code repositories, and <b>(b)</b> its accompanying 
 thesis.  The <a href="/hub">Content, Repositories</a> page outlines the purpose of each repository.</p>
+
+<br>
 
 #### **Project Aim**
 <p style="margin-top: 10px; margin-bottom: 30px">
 Determine whether one or more WaSH (water, sanitation, and hygiene) variables are geohelminths infections prevalence risk factors.</p>
 
+<br>
 
 #### **Project Objectives**
 <p style="margin-top: 10px; margin-bottom: 0px">
