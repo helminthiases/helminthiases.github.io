@@ -35,13 +35,13 @@ logistic models.
 
 <br>
 
-#### **Project Aim**
+#### <span style="font-weight: 600;">Project Aim</span>
 <p style="margin-top: 10px; margin-bottom: 30px">
 Determine whether one or more WaSH (water, sanitation, and hygiene) variables are geohelminths infections prevalence risk factors.</p>
 
 <br>
 
-#### **Project Objectives**
+#### <span style="font-weight: 600;">Project Objectives<span>
 <p style="margin-top: 10px; margin-bottom: 0px">
 Hence, the project's objectives are to</p>
 
@@ -52,7 +52,7 @@ via geostatistical models.
 
 <br>
 
-#### **Project Data**
+#### <span style="font-weight: 600;">Project Data</span>
 <p style="margin-top: 10px; margin-bottom: 30px">
 The project's underlying data is the World Health Organization's <a href="https://espen.afro.who.int/" target="_blank">ESPEN</a>
 (Expanded Special Project for the Elimination of Neglected Tropical Diseases) <i>geohelminths infections survey
