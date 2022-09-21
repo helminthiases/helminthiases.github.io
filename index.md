@@ -60,7 +60,7 @@ experiments</i> <a href="https://admin.espen.afro.who.int/docs/api" target="_bla
 
 <br>
 
-#### These Pages
+#### <b>These Pages</b>
 
 <p style="margin-top: 10px; margin-bottom: 30px">
 These pages complement the project's <b>(a)</b> code repositories, and <b>(b)</b> its accompanying 
