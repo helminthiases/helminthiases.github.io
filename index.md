@@ -11,7 +11,9 @@ custom_css:
 
 - TOC
 {:toc}
-  
+
+<br>
+<br>
 
 # Introductory Notes
 {: .fs-9 }
