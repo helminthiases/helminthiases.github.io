@@ -8,11 +8,6 @@ custom_css:
 - figures
 ---
 
-
-- TOC
-{:toc}
-
-<br>
 <br>
 
 # Introductory Notes
@@ -22,6 +17,12 @@ custom_css:
 The Soil Transmitted Helminths Project
 {: .fs-6 .fw-300 }
 
+<br>
+
+- TOC
+{:toc}
+
+<br>
 
 Soil transmitted helminths (STH), i.e., geohelminths, are parasitic intestinal worms that cause intestinal nematode 
 infections (INI).  According to the Lancet's 2019 global burden of disease study INI - comprising *ascariasis*, *trichuriasis*, 
