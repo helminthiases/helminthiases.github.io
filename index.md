@@ -17,6 +17,7 @@ custom_css:
 
 # Introductory Notes
 {: .fs-9 }
+{: .no_toc }
 
 The Soil Transmitted Helminths Project
 {: .fs-6 .fw-300 }
