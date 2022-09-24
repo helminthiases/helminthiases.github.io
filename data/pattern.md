@@ -25,7 +25,7 @@ custom_css:
 
 ---
 
-## Null Regression & Correlation
+## Null Regression
 
 <p style="margin-top: 20px; margin-bottom: 10px">
 Most of the data's variables have missing values.  Prior to deciding how to address missing values, it is important to understand the 
@@ -70,27 +70,54 @@ over a black square to view the $p_{value}$ <span class="tooltip">w.r.t.<span cl
 the coefficient of a variable.
 </p>
 
-<div class='tableauPlaceholder' id='viz1658092680967' style='position: relative'>
-<noscript><a href='#'><img alt='Missing Data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MissingData_16579829908770&#47;MissingData&#47;1_rss.png' style='border: none' /></a></noscript>
-<object class='tableauViz'  style='display:none;'>
-<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-<param name='embed_code_version' value='3' /> 
+<div class='tableauPlaceholder' id='viz1664052158431' style='position: relative'>
+<noscript><a href='#'><img alt='Null Regression Board ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Nu&#47;NullRegression&#47;NullRegressionBoard&#47;1_rss.png' style='border: none' /></a></noscript>
+<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> 
 <param name='site_root' value='' />
-<param name='name' value='MissingData_16579829908770&#47;MissingData' />
+<param name='name' value='NullRegression&#47;NullRegressionBoard' />
 <param name='tabs' value='no' /><param name='toolbar' value='yes' />
-<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MissingData_16579829908770&#47;MissingData&#47;1.png' /> 
+<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Nu&#47;NullRegression&#47;NullRegressionBoard&#47;1.png' /> 
 <param name='animate_transition' value='yes' />
 <param name='display_static_image' value='yes' />
 <param name='display_spinner' value='yes' />
 <param name='display_overlay' value='yes' />
 <param name='display_count' value='yes' />
 <param name='language' value='en-GB' />
-<param name='filter' value='publish=yes' />
 </object></div>                
 <script type='text/javascript'>                    
-var divElement = document.getElementById('viz1658092680967');                    
+var divElement = document.getElementById('viz1664052158431');                    
 var vizElement = divElement.getElementsByTagName('object')[0];                    
-vizElement.style.width='600px';vizElement.style.height='1127px';                    
+vizElement.style.width='450px';vizElement.style.height='427px';                    
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
+<br>
+<br>
+
+
+## Null Correlation
+
+The degree of association/correlation between the missing cells of a pair of variables.  A Cramer's V value of 1 implies highly correlated; 0, the 
+converse.   Cramer's V is inapplicable if neither variable has missing values.
+
+<div class='tableauPlaceholder' id='viz1664053037154' style='position: relative'>
+<noscript><a href='#'><img alt='Null Correlation Board ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Nu&#47;NullCorrelation&#47;NullCorrelationBoard&#47;1_rss.png' style='border: none' /></a></noscript>
+<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+<param name='name' value='NullCorrelation&#47;NullCorrelationBoard' />
+<param name='tabs' value='no' /><param name='toolbar' value='yes' />
+<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Nu&#47;NullCorrelation&#47;NullCorrelationBoard&#47;1.png' /> 
+<param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+<param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
+<param name='display_count' value='yes' /><param name='language' value='en-GB' />
+</object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1664053037154');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='550px';vizElement.style.height='427px';                    
 var scriptElement = document.createElement('script');                    
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
@@ -101,4 +128,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 <br>
 <br>
 
-
+<br>
+<br>
+<br>
+<br>
