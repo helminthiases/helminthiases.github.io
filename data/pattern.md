@@ -64,11 +64,12 @@ has a $p_{value} < 0.05$.&nbsp; &nbsp; Such a low $p_{value}$ implies that the m
 **are not missing completely at random**.
 
 <p style="margin-top: 20px; margin-bottom: 10px">
-Within the null regression graphs below a $p_{value}$ is inapplicable, and missing data analysis is 
-unnecessary, <b>if the reference variable is not missing any values</b>.  If values are missing the square is black, hover 
-over a black square to view the $p_{value}$ <span class="tooltip">w.r.t.<span class="tooltiptext">with respect to</span></span> 
+Within the null regression graphs below missing data analysis is applicable <b>if, and only if, the independent variable has one or more missing 
+values</b>.  Hover over a black square to view the $p_{value}$ <span class="tooltip">w.r.t.<span class="tooltiptext">with respect to</span></span> 
 the coefficient of a variable.
 </p>
+
+<br>
 
 <div class='tableauPlaceholder' id='viz1664052158431' style='position: relative'>
 <noscript><a href='#'><img alt='Null Regression Board ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Nu&#47;NullRegression&#47;NullRegressionBoard&#47;1_rss.png' style='border: none' /></a></noscript>
@@ -100,8 +101,10 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 ## Null Correlation
 
-The degree of association/correlation between the missing cells of a pair of variables.  A Cramer's V value of 1 implies highly correlated; 0, the 
+The graphs below illustrate the degree of association/correlation between the missing cells of a pair of variables.  A Cramer's V value of 1 implies highly correlated; 0, the 
 converse.   Cramer's V is inapplicable if neither variable has missing values.
+
+<br>
 
 <div class='tableauPlaceholder' id='viz1664053037154' style='position: relative'>
 <noscript><a href='#'><img alt='Null Correlation Board ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Nu&#47;NullCorrelation&#47;NullCorrelationBoard&#47;1_rss.png' style='border: none' /></a></noscript>
