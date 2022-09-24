@@ -98,7 +98,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 ## Complete Cases
 
-Per country, and per geohelminth infection type, what proportion of observations have a year, co&ouml;dinates, and 
+Per country, and per geohelminth infection type, what proportion of observations have a year, co&ouml;rdinates, and 
 prevalence value? 
 
 <br>
