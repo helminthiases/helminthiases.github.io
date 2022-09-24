@@ -27,7 +27,7 @@ custom_css:
 
 ## Null Regression
 
-<p style="margin-top: 20px; margin-bottom: 20px">
+<p style="margin-top: 20px; margin-bottom: 30px">
 Most of the data's variables have missing values.  Prior to deciding how to address missing values, it is important to understand the 
 missing values patterns [@steyerberg2010]. Rubin [@rubin1976, @steyerberg2010, @little2019] outlines three fundamental missing data 
 mechanisms
