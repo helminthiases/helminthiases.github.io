@@ -27,7 +27,7 @@ custom_css:
 
 ## Null Regression
 
-<p style="margin-top: 20px; margin-bottom: 10px">
+<p style="margin-top: 20px; margin-bottom: 20px">
 Most of the data's variables have missing values.  Prior to deciding how to address missing values, it is important to understand the 
 missing values patterns [@steyerberg2010]. Rubin [@rubin1976, @steyerberg2010, @little2019] outlines three fundamental missing data 
 mechanisms
@@ -37,7 +37,7 @@ mechanisms
 > * Missing at Random (MAR): there's an association between a variable's missing data and available independent variables / outcomes.
 > * Missing Not at Random (MNAR): missing data associated with missing values of the factor/predictor in question or with unobserved predictors.
 
-<p style="margin-top: 20px; margin-bottom: 5px">
+<p style="margin-top: 30px; margin-bottom: 5px">
 If the missing values of a data set in question are *missing completely at random* then complete case analysis will suffice 
 because the complete case excerpt is akin to a random sample from a complete population.  If MCAR does not hold, e.g., 
 data is *missing at random*, then the complete case excerpt is not representative of the underlying population, therefore population 
