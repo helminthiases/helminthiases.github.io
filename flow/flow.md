@@ -61,7 +61,7 @@ In relation to top directory <a href="https://www.github.com/helminthiases">hub<
   python src/main.py
 ````
 
-runs the programs of <a href="https://www.github.com/helminthiases/infections">infections</a>.  Subsequently, 
+runs the programs of <a href="https://www.github.com/helminthiases/infections">infections</a>. &nbsp; Subsequently, 
 
 ````shell
   cd ../spatial
@@ -70,14 +70,14 @@ runs the programs of <a href="https://www.github.com/helminthiases/infections">i
 
 which additionally depends on the outputs of <a href="https://www.github.com/helminthiases/infections">infections</a>, runs the programs 
 of <a href="https://www.github.com/helminthiases/spatial">spatial</a>; <a href="https://www.github.com/helminthiases/spatial">spatial</a> 
-will search for the outputs at <a href="https://www.github.com/helminthiases/infections/warehouse">infections/warehouse</a>.  In terms of modelling
+will search for the outputs at <a href="https://www.github.com/helminthiases/infections/warehouse">infections/warehouse</a>. &nbsp; In terms of modelling
 
 ````shell
   cd ../modelling
   source(file = 'R/main.R')
 ````
 
-runs all the modelling related programs.  It depends on the outputs of <a href="https://www.github.com/helminthiases/spatial">spatial</a>, 
+runs all the modelling related programs. &nbsp; It depends on the outputs of <a href="https://www.github.com/helminthiases/spatial">spatial</a>, 
 which reside within <a href="https://www.github.com/helminthiases/spatial/warehouse">spatial/warehouse</a>.
 
 <br>
