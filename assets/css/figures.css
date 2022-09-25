@@ -1,8 +1,9 @@
 /**
  * Figure caption
+ * color: #66555c;
  */
 figcaption {
-    color: #66555c;
+    color: #000000;
     font-size: 0.8em;
     padding: 2px;
     margin-left:85px;
