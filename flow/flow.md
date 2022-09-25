@@ -46,6 +46,60 @@ Diseases. <b>IHME</b>: Institute for Health Metrics and Evaluation, <b>WaSH</b>:
 data & application centre.  <b>SRTM</b>: Shuttle Radar Topography Mission.</figcaption>
 </figure>
 
+
+<br>
+<br>
+
+## A Brief Guide to Running the Project's Programs
+
+In relation to top directory <a href="https://www.github.com/helminthiases">hub</a> wherein all the repositories reside, the program
+
+````shell
+cd infections
+python src/main.py
+````
+
+runs the programs of <a href="https://www.github.com/helminthiases/infections">infections</a>.  Subsequently, 
+
+````shell
+cd ../spatial
+source(file = 'spatial/R/main.R')
+````
+
+which additionally depends on the outputs of <a href="https://www.github.com/helminthiases/infections">infections</a>, runs the programs 
+of <a href="https://www.github.com/helminthiases/spatial">spatial</a>; <a href="https://www.github.com/helminthiases/spatial">spatial</a> 
+will search for the outputs at <a href="https://www.github.com/helminthiases/infections/warehouse">infections/warehouse</a>.  In terms of modelling
+
+````shell
+cd ../modelling
+source(file = 'R/main.R')
+````
+
+runs all the modelling related programs.  It depends on the outputs of <a href="https://www.github.com/helminthiases/spatial">spatial</a>, 
+which reside within <a href="https://www.github.com/helminthiases/spatial/warehouse">spatial/warehouse</a>.
+
+<br>
+
+### Missing Data Analysis
+
+In contrast to the previous programs, the programs of this section access the outputs of another 
+repository locally.
+
+As the flow diagram illustrates, the programs of <a href="https://www.github.com/helminthiases/preliminary">preliminary</a> depend on the
+outputs of the <a href="…/infections">infections</a> & <a href="../spatial">spatial</a> repositories.
+
+````shell
+cd prelimiary
+python src/main.py
+````
+
+Finally, github.com/helminthiases/association depends on the outputs of <a href="https://www.github.com/helminthiases/preliminary">preliminary</a>
+
+````shell
+cd ../association
+source(file = 'R/main.R')
+````
+
 <br>
 <br>
 <br>
