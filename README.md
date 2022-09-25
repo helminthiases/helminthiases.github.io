@@ -52,12 +52,11 @@ Elevation
 <br>
 
 Administrative Boundaries
-* [Global Administrative Areas (GADM)](https://gadm.org)
-  * The co&ouml;rdinate reference system details of a GADM map are visible at the bottom
-    of [a country page](https://gadm.org/download_country.html), after selecting a country.  It is ``EPSG:4326``.
-  * [Global Colaboration Engine](http://globe.umbc.edu)
-  * [GADM & GLOBE](http://globe.umbc.edu/documentation-overview/global-administrative-areas-gadm/)
-  * [Variable Explorer](http://globe.umbc.edu/app/#/analysis/global-variables)
+* [Global Administrative Areas (GADM)](https://gadm.org): The co&ouml;rdinate reference system details of a GADM map are visible at the bottom
+  of [a country page](https://gadm.org/download_country.html), after selecting a country.  It is ``EPSG:4326``.
+* [Global Colaboration Engine](http://globe.umbc.edu)
+* [GADM & GLOBE](http://globe.umbc.edu/documentation-overview/global-administrative-areas-gadm/)
+* [Variable Explorer](http://globe.umbc.edu/app/#/analysis/global-variables)
 
 <br>
   
